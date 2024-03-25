@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I’m a 34 years old full stack web developer from Venezuela, passionate about creating web applications that are user-friendly, responsive, and functional. I recently graduated from Henry, an online bootcamp that taught me how to use JavaScript, React, Next.js, CSS, HTML, Express, Node.js, Tailwind, and PostgreSQL to build dynamic and interactive websites.  
+I’m a 34 years old full stack web developer from Venezuela, passionate about creating web applications that are user-friendly, responsive, and functional. With experience using JavaScript, React, Next.js, CSS, HTML, Express, Node.js, Tailwind, and PostgreSQL to build dynamic and interactive websites.  
   
 
 <br/>  
